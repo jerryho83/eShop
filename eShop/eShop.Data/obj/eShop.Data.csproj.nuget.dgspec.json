@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NETCORE\\eShop\\eShop\\eShop.Data\\eShop.Data.csproj": {}
+    "E:\\NETCORE\\eShop\\eShop\\eshop.data\\eShop.Data.csproj": {}
   },
   "projects": {
-    "E:\\NETCORE\\eShop\\eShop\\eShop.Data\\eShop.Data.csproj": {
+    "E:\\NETCORE\\eShop\\eShop\\eshop.data\\eShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NETCORE\\eShop\\eShop\\eShop.Data\\eShop.Data.csproj",
+        "projectUniqueName": "E:\\NETCORE\\eShop\\eShop\\eshop.data\\eShop.Data.csproj",
         "projectName": "eShop.Data",
-        "projectPath": "E:\\NETCORE\\eShop\\eShop\\eShop.Data\\eShop.Data.csproj",
+        "projectPath": "E:\\NETCORE\\eShop\\eShop\\eshop.data\\eShop.Data.csproj",
         "packagesPath": "C:\\Users\\BM\\.nuget\\packages\\",
-        "outputPath": "E:\\NETCORE\\eShop\\eShop\\eShop.Data\\obj\\",
+        "outputPath": "E:\\NETCORE\\eShop\\eShop\\eshop.data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -54,6 +54,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[3.1.4, )"
             }

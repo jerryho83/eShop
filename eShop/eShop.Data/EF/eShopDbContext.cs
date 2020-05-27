@@ -7,6 +7,8 @@ using System.Configuration;
 using Microsoft.EntityFrameworkCore.Internal;
 using eShop.Data.Entities;
 using eShop.Data.Configurations;
+using eShop.Data.Extensions;
+
 namespace eShop.Data.EF
 {
     public class eShopDbContext : DbContext
@@ -34,6 +36,8 @@ namespace eShop.Data.EF
             modelBuilder.ApplyConfiguration(new TransactionConfiguration());
 
             //base.OnModelCreating(modelBuilder);
+            //seeding database
+            modelBuilder.Seed();
         }
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }

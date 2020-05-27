@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NETCORE\\eShop\\eShop\\eShop.Application{\\eShop.Application.csproj": {}
+    "E:\\NETCORE\\eShop\\eShop\\eShop.Application\\eShop.Application.csproj": {}
   },
   "projects": {
-    "E:\\NETCORE\\eShop\\eShop\\eShop.Application{\\eShop.Application.csproj": {
+    "E:\\NETCORE\\eShop\\eShop\\eShop.Application\\eShop.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NETCORE\\eShop\\eShop\\eShop.Application{\\eShop.Application.csproj",
+        "projectUniqueName": "E:\\NETCORE\\eShop\\eShop\\eShop.Application\\eShop.Application.csproj",
         "projectName": "eShop.Application",
-        "projectPath": "E:\\NETCORE\\eShop\\eShop\\eShop.Application{\\eShop.Application.csproj",
+        "projectPath": "E:\\NETCORE\\eShop\\eShop\\eShop.Application\\eShop.Application.csproj",
         "packagesPath": "C:\\Users\\BM\\.nuget\\packages\\",
-        "outputPath": "E:\\NETCORE\\eShop\\eShop\\eShop.Application{\\obj\\",
+        "outputPath": "E:\\NETCORE\\eShop\\eShop\\eShop.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

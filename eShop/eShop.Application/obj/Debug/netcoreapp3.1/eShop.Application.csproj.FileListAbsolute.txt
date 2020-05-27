@@ -1,8 +1,9 @@
-E:\NETCORE\eShop\eShop\eShop.Application{\bin\Debug\netcoreapp3.1\eShop.Application.deps.json
-E:\NETCORE\eShop\eShop\eShop.Application{\bin\Debug\netcoreapp3.1\eShop.Application.dll
-E:\NETCORE\eShop\eShop\eShop.Application{\bin\Debug\netcoreapp3.1\eShop.Application.pdb
-E:\NETCORE\eShop\eShop\eShop.Application{\obj\Debug\netcoreapp3.1\eShop.Application.AssemblyInfoInputs.cache
-E:\NETCORE\eShop\eShop\eShop.Application{\obj\Debug\netcoreapp3.1\eShop.Application.AssemblyInfo.cs
-E:\NETCORE\eShop\eShop\eShop.Application{\obj\Debug\netcoreapp3.1\eShop.Application.csproj.CoreCompileInputs.cache
-E:\NETCORE\eShop\eShop\eShop.Application{\obj\Debug\netcoreapp3.1\eShop.Application.dll
-E:\NETCORE\eShop\eShop\eShop.Application{\obj\Debug\netcoreapp3.1\eShop.Application.pdb
+E:\NETCORE\eShop\eShop\eShop.Application\bin\Debug\netcoreapp3.1\eShop.Application.deps.json
+E:\NETCORE\eShop\eShop\eShop.Application\bin\Debug\netcoreapp3.1\eShop.Application.dll
+E:\NETCORE\eShop\eShop\eShop.Application\bin\Debug\netcoreapp3.1\eShop.Application.pdb
+E:\NETCORE\eShop\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.AssemblyInfoInputs.cache
+E:\NETCORE\eShop\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.AssemblyInfo.cs
+E:\NETCORE\eShop\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.csproj.CoreCompileInputs.cache
+E:\NETCORE\eShop\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.dll
+E:\NETCORE\eShop\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.pdb
+E:\NETCORE\eShop\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.csprojAssemblyReference.cache

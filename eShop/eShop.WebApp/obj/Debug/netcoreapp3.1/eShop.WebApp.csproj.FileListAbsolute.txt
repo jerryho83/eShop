@@ -34,3 +34,4 @@ E:\NETCORE\eShop\eShop\eShop.WebApp\obj\Debug\netcoreapp3.1\eShop.WebApp.dll
 E:\NETCORE\eShop\eShop\eShop.WebApp\obj\Debug\netcoreapp3.1\eShop.WebApp.pdb
 E:\NETCORE\eShop\eShop\eShop.WebApp\obj\Debug\netcoreapp3.1\eShop.WebApp.genruntimeconfig.cache
 E:\NETCORE\eShop\eShop\eShop.WebApp\obj\Debug\netcoreapp3.1\eShop.WebApp.csproj.CopyComplete
+E:\NETCORE\eShop\eShop\eShop.WebApp\obj\Debug\netcoreapp3.1\eShop.WebApp.csprojAssemblyReference.cache
