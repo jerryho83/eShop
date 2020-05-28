@@ -1,6 +1,5 @@
 E:\NETCORE\eShop\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.AssemblyInfoInputs.cache
 E:\NETCORE\eShop\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.AssemblyInfo.cs
-E:\NETCORE\eShop\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.csproj.CoreCompileInputs.cache
 E:\NETCORE\eShop\eShop\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.deps.json
 E:\NETCORE\eShop\eShop\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.runtimeconfig.json
 E:\NETCORE\eShop\eShop\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.runtimeconfig.dev.json
@@ -10,3 +9,4 @@ E:\NETCORE\eShop\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.csprojAssem
 E:\NETCORE\eShop\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.dll
 E:\NETCORE\eShop\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.pdb
 E:\NETCORE\eShop\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.genruntimeconfig.cache
+E:\NETCORE\eShop\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.csproj.CoreCompileInputs.cache
