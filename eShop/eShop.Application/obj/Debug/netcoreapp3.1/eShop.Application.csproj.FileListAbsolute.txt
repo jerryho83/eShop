@@ -7,3 +7,8 @@ E:\NETCORE\eShop\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Applicati
 E:\NETCORE\eShop\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.dll
 E:\NETCORE\eShop\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.pdb
 E:\NETCORE\eShop\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.csprojAssemblyReference.cache
+E:\NETCORE\eShop\eShop\eShop.Application\bin\Debug\netcoreapp3.1\eShop.Data.dll
+E:\NETCORE\eShop\eShop\eShop.Application\bin\Debug\netcoreapp3.1\eShop.Data.pdb
+E:\NETCORE\eShop\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.csproj.CopyComplete
+E:\NETCORE\eShop\eShop\eShop.Application\bin\Debug\netcoreapp3.1\eShop.Utilities.dll
+E:\NETCORE\eShop\eShop\eShop.Application\bin\Debug\netcoreapp3.1\eShop.Utilities.pdb

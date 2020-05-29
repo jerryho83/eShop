@@ -1,0 +1,8 @@
+E:\NETCORE\eShop\eShop\eShop.ViewModels\bin\Debug\netcoreapp3.1\eShop.ViewModels.deps.json
+E:\NETCORE\eShop\eShop\eShop.ViewModels\bin\Debug\netcoreapp3.1\eShop.ViewModels.dll
+E:\NETCORE\eShop\eShop\eShop.ViewModels\bin\Debug\netcoreapp3.1\eShop.ViewModels.pdb
+E:\NETCORE\eShop\eShop\eShop.ViewModels\obj\Debug\netcoreapp3.1\eShop.ViewModels.AssemblyInfoInputs.cache
+E:\NETCORE\eShop\eShop\eShop.ViewModels\obj\Debug\netcoreapp3.1\eShop.ViewModels.AssemblyInfo.cs
+E:\NETCORE\eShop\eShop\eShop.ViewModels\obj\Debug\netcoreapp3.1\eShop.ViewModels.csproj.CoreCompileInputs.cache
+E:\NETCORE\eShop\eShop\eShop.ViewModels\obj\Debug\netcoreapp3.1\eShop.ViewModels.dll
+E:\NETCORE\eShop\eShop\eShop.ViewModels\obj\Debug\netcoreapp3.1\eShop.ViewModels.pdb

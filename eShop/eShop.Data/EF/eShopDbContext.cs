@@ -28,6 +28,7 @@ namespace eShop.Data.EF
             modelBuilder.ApplyConfiguration(new CategoryConfiguration());
             modelBuilder.ApplyConfiguration(new ProductInCategoryConfiguration());
             modelBuilder.ApplyConfiguration(new OrderConfiguration());
+            modelBuilder.ApplyConfiguration(new ProductImageConfiguration());
 
             modelBuilder.ApplyConfiguration(new OrderDetailConfiguration());
             modelBuilder.ApplyConfiguration(new CategoryTranslationConfiguration());
@@ -63,6 +64,7 @@ namespace eShop.Data.EF
         public DbSet<Contact> Contacts { get; set; }
 
         public DbSet<Language> Languages { get; set; }
+        public DbSet<ProductImage> ProductImages { get; set; }
 
         public DbSet<Order> Orders { get; set; }
 

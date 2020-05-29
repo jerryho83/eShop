@@ -1,0 +1,8 @@
+E:\NETCORE\eShop\eShop\eShop.Utilities\bin\Debug\netcoreapp3.1\eShop.Utilities.deps.json
+E:\NETCORE\eShop\eShop\eShop.Utilities\bin\Debug\netcoreapp3.1\eShop.Utilities.dll
+E:\NETCORE\eShop\eShop\eShop.Utilities\bin\Debug\netcoreapp3.1\eShop.Utilities.pdb
+E:\NETCORE\eShop\eShop\eShop.Utilities\obj\Debug\netcoreapp3.1\eShop.Utilities.AssemblyInfoInputs.cache
+E:\NETCORE\eShop\eShop\eShop.Utilities\obj\Debug\netcoreapp3.1\eShop.Utilities.AssemblyInfo.cs
+E:\NETCORE\eShop\eShop\eShop.Utilities\obj\Debug\netcoreapp3.1\eShop.Utilities.csproj.CoreCompileInputs.cache
+E:\NETCORE\eShop\eShop\eShop.Utilities\obj\Debug\netcoreapp3.1\eShop.Utilities.dll
+E:\NETCORE\eShop\eShop\eShop.Utilities\obj\Debug\netcoreapp3.1\eShop.Utilities.pdb

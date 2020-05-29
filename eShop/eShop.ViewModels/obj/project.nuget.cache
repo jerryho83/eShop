@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4mUhvdHRtXoXBbOFF/LPllZ7Nw9CpfPbo7cFl7GZnweXyNO222PlxMf9vTvubJWdOtj/+L/cyDnYfhDPPEK/3g==",
+  "success": true,
+  "projectFilePath": "E:\\NETCORE\\eShop\\eShop\\eShop.ViewModels\\eShop.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
